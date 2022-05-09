@@ -76,7 +76,7 @@
 ## Pair AirPods
 ### To connect your AirPods to your iPhone
 ###### *Note: Before you begin make sure your device is updated to the latest version of IOS.*
-1.	On your iPhone, go to Settings ![image](https://user-images.githubusercontent.com/104711446/167420687-71155311-44fe-4b27-a5c4-80182236488c.png)   > Bluetooth and turn on the Bluetooth radio button.
+1.	On your iPhone, go to **Settings** ![image](https://user-images.githubusercontent.com/104711446/167420687-71155311-44fe-4b27-a5c4-80182236488c.png)   > Bluetooth and turn on the Bluetooth radio button.
 2.	Open the AirPods case and bring it next to your iPhone. 
 3.	Press and hold the setup button on the back of the AirPods case for five seconds, or until the status light flashes white.
 
