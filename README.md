@@ -1,22 +1,28 @@
 # USER MANUAL- AIRPODS (2ND GENERATION)
+
 ## Introduction
-###### *You may listen to your favorite audio on your iPhone, iPad, iPad touch, Apple Watch, Mac, or Apple TV in seconds with AirPods (2nd generation). You can also use your AirPods to make and answer phone calls and FaceTime calls with compatible devices.* 
+
+#### *You may listen to your favorite audio on your iPhone, iPad, iPad touch, Apple Watch, Mac, or Apple TV in seconds with AirPods (2nd generation). You can also use your AirPods to make and answer phone calls and FaceTime calls with compatible devices.* 
 
 (![image](https://user-images.githubusercontent.com/104711446/167419531-4b68c166-5886-47f9-acb3-0243880a4ce2.png)
 
-###### *The following are available inside the box:*
+##### *The following are available inside the box:*
 - Airpods 
 - Charging Case 
 - Lightning to USB-A Cable 
 - User Manual
+
 ### Feature Specification:
+
 #### Sensors:
 - Dual beam-forming microphones
 - Dual optical sensors
 - Motion-detecting accelerometer
 - Speech-detecting accelerometer
+
 #### Chip: 
 - H1 headphone chip
+
 #### Controls:
 - ![image](https://user-images.githubusercontent.com/104711446/167420061-68fa7d5c-c56f-490e-81e4-6285ebf6b003.png) Double-tap to play, skip forward or answer a phone call
 - ![image](https://user-images.githubusercontent.com/104711446/167420267-b2beef2b-1264-4554-bbe9-e07d363391c6.png) Say “Hey Siri” to do things like playing a song, make a call, or get directions
@@ -40,6 +46,7 @@
 - Works with the Lightning connector
 
 #### Battery:
+
 ##### AirPods 
 - Up to 5 hours of listening time with a single charge2
 - Up to 3 hours of talk time with a single charge3
@@ -53,7 +60,8 @@
 - Bluetooth 5.0
 
 #### Accessibility: 
-###### Accessibility features help people with disabilities get the most out of their new AirPods. Features include: 
+
+#### *Accessibility features help people with disabilities get the most out of their new AirPods. Features include:* 
 - Live Listen audio
 - Headphone levels
 - Headphone Accommodations
