@@ -4,7 +4,7 @@
 
 #### *You may listen to your favorite audio on your iPhone, iPad, iPad touch, Apple Watch, Mac, or Apple TV in seconds with AirPods (2nd generation). You can also use your AirPods to make and answer phone calls and FaceTime calls with compatible devices.* 
 
-(![image](https://user-images.githubusercontent.com/104711446/167419531-4b68c166-5886-47f9-acb3-0243880a4ce2.png)
+![image](https://user-images.githubusercontent.com/104711446/167419531-4b68c166-5886-47f9-acb3-0243880a4ce2.png)
 
 ##### *The following are available inside the box:*
 - Airpods 
