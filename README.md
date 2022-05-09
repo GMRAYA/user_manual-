@@ -76,28 +76,35 @@
 ## Pair AirPods
 ### To connect your AirPods to your iPhone
 ###### *Note: Before you begin make sure your device is updated to the latest version of IOS.*
-1.	On your iPhone, go to **Settings** ![image](https://user-images.githubusercontent.com/104711446/167420687-71155311-44fe-4b27-a5c4-80182236488c.png)   > Bluetooth and turn on the Bluetooth radio button.
+1.	On your iPhone, go to **Settings** ![image](https://user-images.githubusercontent.com/104711446/167420687-71155311-44fe-4b27-a5c4-80182236488c.png)   > **Bluetooth** and turn on the **Bluetooth** radio button.
 2.	Open the AirPods case and bring it next to your iPhone. 
 3.	Press and hold the setup button on the back of the AirPods case for five seconds, or until the status light flashes white.
 
 ![image](https://user-images.githubusercontent.com/104711446/167420762-5e132996-e8c1-40d0-a211-a2014aafeb04.png)
 
-4. A prompt will appear on your iPhone, tap to Connect. When the Airpods are connected to your iPhone, the status light on the case will blink and go solid
+4. A prompt will appear on your iPhone, tap to **Connect**. When the Airpods are connected to your iPhone, the status light on the case will blink and go solid
 
 ![image](https://user-images.githubusercontent.com/104711446/167420806-93431cf7-007d-4876-80d7-1de3e7db5782.png)
 
 ### To connect your AirPods to your Apple watch
 ###### *Note: Before you begin make sure your device is updated to the latest version of IOS*
 
+1. On your watch, go to the **Settings** app and tap on **Bluetooth**. 
+2.	Tap on the AirPod name under the **DEVICES** section in **Bluetooth** to connect.
+
+### To connect your AirPods to your Mac
+###### *Note: Before you begin make sure your device is updated to the latest version of IOS*
+
 1.	Open the AirPods case and bring it next to your Mac. 
 2.	Press and hold the setup button on the back of the AirPods case for five seconds, or until the status light flashes white.
-3.	On your Mac, go to the Apple menu  ![image](https://user-images.githubusercontent.com/104711446/167420892-3909a274-1c19-456b-a414-ff47a772cd70.png) > System Preferences and click Bluetooth. The list of devices will appear, select your AirPods and click Connect.
+
+3.	On your Mac, go to the **Apple** menu  ![image](https://user-images.githubusercontent.com/104711446/167420892-3909a274-1c19-456b-a414-ff47a772cd70.png) > **System Preferences** and click **Bluetooth**. The list of devices will appear, select your AirPods and click **Connect**.
 
 ### To connect your AirPods to your Apple TV
 ###### *Note: Before you begin make sure your device is updated to the latest version of IOS.* 
 
-1.	On your Apple TV, press the Siri Remote and select Settings.
-2.	Scroll down and select Remotes and Devices > Bluetooth.
+1.	On your Apple TV, press the Siri Remote and select **Settings**.
+2.	Scroll down and select **Remotes and Devices** > **Bluetooth**.
 3.	Press and hold the setup button on the back of the AirPods case for five seconds, or until the status light flashes white.
 4.	The list of devices appears on your TV screen, select your Airpods name.
 
@@ -118,8 +125,8 @@
 
 1.	Make sure your AirPods are connected to your device.
 2.	Do one of the following:
--	On iPhone, iPad, or iPod touch- Go to Settings  ![image](https://user-images.githubusercontent.com/104711446/167421025-548f6ad7-ea10-45ce-a0f0-b6212620ec38.png) > Bluetooth, then tap the icon next to your AirPods name. Tap on the current name and enter a new name, then tap Done.
--	On Mac:  Choose Apple menu ![image](https://user-images.githubusercontent.com/104711446/167421053-db690520-a105-4377-9c4b-6eb0cefad84e.png)  > System Preferences, then click Bluetooth. Control-click your Airpods name and choose rename. Enter a new name and then click Rename.
+-	On iPhone, iPad, or iPod touch- Go to **Settings**  ![image](https://user-images.githubusercontent.com/104711446/167421025-548f6ad7-ea10-45ce-a0f0-b6212620ec38.png) > **Bluetooth**, then tap the icon next to your AirPods name. Tap on the current name and enter a new name, then tap **Done**.
+-	On Mac:  Choose **Apple** menu ![image](https://user-images.githubusercontent.com/104711446/167421053-db690520-a105-4377-9c4b-6eb0cefad84e.png)  > **System Preferences**, then click Bluetooth. Control-click your Airpods name and choose rename. Enter a new name and then click **Rename**.
 
 ## AirPods Control
 #### *You can control your AirPods with a double-tap at the top of the stem.*
@@ -135,8 +142,8 @@
 - Activate Siri.
 - 
 #### *To adjust the control for AirPods do the following:*
-1.	On your device, go to Settings ![image](https://user-images.githubusercontent.com/104711446/167421175-89b74595-a11d-46f9-a8bc-806366f487fa.png)  > Bluetooth.
-2.	Tap on the icon next to your AirPods name to set the controls.
+1.	On your device, go to **Settings** ![image](https://user-images.githubusercontent.com/104711446/167421175-89b74595-a11d-46f9-a8bc-806366f487fa.png)  > **Bluetooth**.
+2.	Tap on the ![image](https://user-images.githubusercontent.com/104711446/167433319-9f0dc6d5-b474-417c-947b-b5a134cc252e.png) icon next to your AirPods name to set the controls.
 
 ## Troubleshoot your  AirPods
 
@@ -161,7 +168,7 @@
 ###### *Note: The AirPods have the capability to stream audio from 100 feet, from the device, make sure there is no obstacle in between* 
 
 #### *When you take out the AirPods from your ears and the audio does not pause, do the following steps:* 
-1.	On your devices, go to Settings  ![image](https://user-images.githubusercontent.com/104711446/167421279-86c2fcf9-157d-4a70-8f37-69b01b2ebd89.png) > Bluetooth and turn on the Bluetooth radio button.
-2.	Tap the “i” icon next to your AirPods, and make sure the <mark> Automatic Ear Detection </mark> radio button is on.
+1.	On your devices, go to **Settings**  ![image](https://user-images.githubusercontent.com/104711446/167421279-86c2fcf9-157d-4a70-8f37-69b01b2ebd89.png) > Bluetooth and turn on the **Bluetooth** radio button.
+2.	Tap the ![image](https://user-images.githubusercontent.com/104711446/167433664-20bd4c4b-9108-49a6-a811-a6bff3418099.png) icon next to your AirPods, and make sure the **Automatic Ear Detection** radio button is on.
 
 ![image](https://user-images.githubusercontent.com/104711446/167421312-4e1d0468-813f-4138-bab2-fbd8cdb2f717.png)
