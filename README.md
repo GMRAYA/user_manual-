@@ -53,7 +53,7 @@
 - Bluetooth 5.0
 
 #### Accessibility: 
-* Accessibility features help people with disabilities get the most out of their new AirPods. Features include: 
+###### Accessibility features help people with disabilities get the most out of their new AirPods. Features include: 
 - Live Listen audio
 - Headphone levels
 - Headphone Accommodations
