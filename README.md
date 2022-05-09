@@ -1,10 +1,10 @@
 # USER MANUAL- AIRPODS (2ND GENERATION)
 ## Introduction
-*You may listen to your favorite audio on your iPhone, iPad, iPad touch, Apple Watch, Mac, or Apple TV in seconds with AirPods (2nd generation). You can also use your AirPods to make and answer phone calls and FaceTime calls with compatible devices.* 
+###### *You may listen to your favorite audio on your iPhone, iPad, iPad touch, Apple Watch, Mac, or Apple TV in seconds with AirPods (2nd generation). You can also use your AirPods to make and answer phone calls and FaceTime calls with compatible devices.* 
 
 (![image](https://user-images.githubusercontent.com/104711446/167419531-4b68c166-5886-47f9-acb3-0243880a4ce2.png)
 
-*The following are available inside the box:*
+###### *The following are available inside the box:*
 - Airpods 
 - Charging Case 
 - Lightning to USB-A Cable 
@@ -67,7 +67,7 @@
 
 ### Pair AirPods
 #### To connect your AirPods to your iPhone
-*Note: Before you begin make sure your device is updated to the latest version of IOS.
+###### *Note: Before you begin make sure your device is updated to the latest version of IOS.*
 1.	On your iPhone, go to Settings ![image](https://user-images.githubusercontent.com/104711446/167420687-71155311-44fe-4b27-a5c4-80182236488c.png)   > Bluetooth and turn on the Bluetooth radio button.
 2.	Open the AirPods case and bring it next to your iPhone. 
 3.	Press and hold the setup button on the back of the AirPods case for five seconds, or until the status light flashes white.
@@ -79,15 +79,14 @@
 ![image](https://user-images.githubusercontent.com/104711446/167420806-93431cf7-007d-4876-80d7-1de3e7db5782.png)
 
 #### To connect your AirPods to your Apple watch
-*Note: Before you begin make sure your device is updated to the latest version of IOS
+###### *Note: Before you begin make sure your device is updated to the latest version of IOS*
 
 1.	Open the AirPods case and bring it next to your Mac. 
 2.	Press and hold the setup button on the back of the AirPods case for five seconds, or until the status light flashes white.
-3.	On your Mac, go to the Apple menu  ![image](https://user-images.githubusercontent.com/104711446/167420892-3909a274-1c19-456b-a414-ff47a772cd70.png)
- > System Preferences and click Bluetooth. The list of devices will appear, select your AirPods and click Connect.
+3.	On your Mac, go to the Apple menu  ![image](https://user-images.githubusercontent.com/104711446/167420892-3909a274-1c19-456b-a414-ff47a772cd70.png) > System Preferences and click Bluetooth. The list of devices will appear, select your AirPods and click Connect.
 
 #### To connect your AirPods to your Apple TV
-*Note: Before you begin make sure your device is updated to the latest version of IOS. 
+###### *Note: Before you begin make sure your device is updated to the latest version of IOS.* 
 1.	On your Apple TV, press the Siri Remote and select Settings.
 2.	Scroll down and select Remotes and Devices > Bluetooth.
 3.	Press and hold the setup button on the back of the AirPods case for five seconds, or until the status light flashes white.
@@ -102,7 +101,7 @@
 2.	Wireless Charging Case – Place the case with the status light facing up on the center of a MagSafe wireless charger or a Qi-Certified charger.
 3.	Airpods will charge whenever they’re in the case with the lid closed. When the case is aligned properly with the charge, the status light will turn on for several seconds and turn off while the case continues to charge
 ### Rename your AirPods
-*You can change the name of your AirPods using your iPhone, iPad, iPod touch, or Mac. When you are signed in with the same Apple ID on multiple devices, the new name updates across devices.
+###### You can change the name of your AirPods using your iPhone, iPad, iPod touch, or Mac. When you are signed in with the same Apple ID on multiple devices, the new name updates across devices.
 
 1.	Make sure your AirPods are connected to your device.
 2.	Do one of the following:
@@ -110,11 +109,11 @@
 -	On Mac:  Choose Apple menu ![image](https://user-images.githubusercontent.com/104711446/167421053-db690520-a105-4377-9c4b-6eb0cefad84e.png)  > System Preferences, then click Bluetooth. Control-click your Airpods name and choose rename. Enter a new name and then click Rename.
 -	
 ### AirPods Control
-*You can control your AirPods with a double-tap at the top of the stem.
+##### You can control your AirPods with a double-tap at the top of the stem.
 
 ![image](https://user-images.githubusercontent.com/104711446/167421105-ddbe6f6b-4b00-43d9-8d2b-a5c22d1c362b.png)
 
- *For example, if you get an incoming call, double-tap to answer. 
+ ###### For example, if you get an incoming call, double-tap to answer. 
 ##### You can also set each of your AirPods to do one of the following with a double tap:
 - Play and pause audio content.
 - Play the next track.
