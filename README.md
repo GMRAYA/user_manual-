@@ -16,7 +16,7 @@
 
 ### Sensors:
 - Dual beam-forming microphones
-- Dual optical sensors
+- Dual ==optical sensors==
 - Motion-detecting accelerometer
 - Speech-detecting accelerometer
 
