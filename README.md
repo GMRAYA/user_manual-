@@ -180,3 +180,11 @@
 2.	Tap the ![image](https://user-images.githubusercontent.com/104711446/167433664-20bd4c4b-9108-49a6-a811-a6bff3418099.png) icon next to your AirPods, and make sure the **Automatic Ear Detection** radio button is on.
 
 ![image](https://user-images.githubusercontent.com/104711446/167421312-4e1d0468-813f-4138-bab2-fbd8cdb2f717.png)
+
+- [ ] List 1
+- [x] list 2
+- [ ] list 3
+
+😈
+
+~~Strike this content~~
