@@ -5,6 +5,14 @@
 #### *You may listen to your favorite audio on your iPhone, iPad, iPad touch, Apple Watch, Mac, or Apple TV in seconds with AirPods (2nd generation). You can also use your AirPods to make and answer phone calls and FaceTime calls with compatible devices.* 
 
 ![image](https://user-images.githubusercontent.com/104711446/167419531-4b68c166-5886-47f9-acb3-0243880a4ce2.png)
+![A career in technology at Microsoft](https://github.com/user-attachments/assets/1c7903ae-6e31-46b2-b336-7e759589e109)
+
+![download](https://github.com/user-attachments/assets/315fceb3-ccaa-40a4-a9ef-13929984e630)
+
+
+
+
+
 
 ##### *The following are available inside the box:*
 - Airpods 
@@ -76,9 +84,9 @@
 ## Pair AirPods
 ### To connect your AirPods to your iPhone
 ###### *Note: Before you begin make sure your device is updated to the latest version of IOS.*
-1.	On your iPhone, go to **Settings** ![image](https://user-images.githubusercontent.com/104711446/167420687-71155311-44fe-4b27-a5c4-80182236488c.png)   > **Bluetooth** and turn on the **Bluetooth** radio button.
-2.	Open the AirPods case and bring it next to your iPhone. 
-3.	Press and hold the setup button on the back of the AirPods case for five seconds, or until the status light flashes white.
+3.	Open the AirPods case and bring it next to your iPhone. [^1]
+[^1]: Source
+4.	Press and hold the setup button on the back of the AirPods case for five seconds, or until the status light flashes white.
 
 ![image](https://user-images.githubusercontent.com/104711446/167420762-5e132996-e8c1-40d0-a211-a2014aafeb04.png)
 
